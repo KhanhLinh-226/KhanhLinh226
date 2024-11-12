@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Admin\OneDrive\DHMT\Cánh cửa\opengl_demo\include\Vector_Matrix.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+  opengl_demo.vcxproj -> C:\Users\Admin\OneDrive\DHMT\Cánh cửa\x64\Debug\opengl_demo.exe
